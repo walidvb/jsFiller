@@ -1,13 +1,12 @@
-Welcome to jsFiller!	{#welcome}
+Welcome to jsFiller!
 =====================
 Your one-click add and test script or stylesheet!
 
 Test it!
 -------------
 
-Click here, and avoid reading any of what's below...
+Click here[javascript:(function()%7Bvar%20src%3Dprompt(%27Enter%20URL%20of%20the%20script%20to%20add%27,%22http://yomama%22)%3Bvar%20oHead%3Ddocument.getElementsByTagName(%27HEAD%27).item(0)%3Bvar%20oScript%3Ddocument.createElement(%22script%22)%3BoScript.type%3D%22text/javascript%22%3BoScript.src%3Dsrc%3BoHead.appendChild(oScript)%3B%7D)()%3B], and avoid reading any of what's below...
 
-Hello, I am your first Markdown document within **StackEdit**[^stackedit]. Don't delete me, I can be helpful. I can be recovered anyway in the `Utils` tab of the <i class="icon-cog"></i> `Settings` dialog.
 
 ----------
 
